@@ -11,7 +11,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/DawnGuardian/PGA460_ESP32_Library"
+    "url": "https://github.com/DawnGuardian/PGA460_Ard"
   },
   "version": "1.0.0",
   "frameworks": "Arduino",
